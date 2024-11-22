@@ -129,7 +129,7 @@ const Signin = () => {
                     onClick={() => setView("desktop")}
                     className="p-2 border border-neutral-500 dark:text-white rounded flex items-center"
                   >
-                    <LuCode />y
+                    <LuCode />
                     
                   </button>
                 ) : (
