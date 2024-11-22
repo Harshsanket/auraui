@@ -113,7 +113,7 @@ const Header = () => {
               )
             }
           </div>
-          <a href="">
+          <a href="https://github.com/Harshsanket/auraui">
           <LuGithub className="hover:text-blue-500" />
           </a>
           {theme === "dark" ? (
